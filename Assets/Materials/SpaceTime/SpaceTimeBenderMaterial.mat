@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpaceTimeBenderMaterial
+  m_Shader: {fileID: -6465566751694194690, guid: 01e44602de58249409229362c423c451,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Vector1_414E63A1: 5000
+    - Vector1_5363122D: 2
+    - Vector1_74ED6D04: 3.71
+    - Vector1_D1614F6F: 0.8
+    - Vector1_DAF2F860: 680
+    - Vector1_E401881F: 5
+    - Vector1_F817F54: 0.00008
+    m_Colors:
+    - Color_67AB7225: {r: 0.43174818, g: 0.05873976, b: 0.8301887, a: 0}
+    - Vector3_3FE5CE0: {r: 0, g: 0, b: 0, a: 0}
+    - Vector3_50DD1DAD: {r: 1, g: 1, b: 0, a: 0}
+    - Vector3_7724D294: {r: 0, g: 0, b: 0, a: 0}
+    - Vector3_9806D3FC: {r: 0.41707927, g: 0.87, b: 3.2800198, a: 0}
+    - Vector3_A62B8FBC: {r: 0, g: 0, b: 0, a: 0}
+    - Vector4_197BA181: {r: -1.34, g: 5.8, b: -0.6, a: 1}
+    - Vector4_4A154892: {r: 0.73, g: 4.34, b: -1.05, a: 0}
+    - Vector4_C441138F: {r: 0, g: 0, b: 0, a: 0}
+    - Vector4_C4D6C91B: {r: 0, g: 0, b: 0, a: 0}
+    - Vector4_C756D61A: {r: 0, g: 0, b: 0, a: 0}
+    - Vector4_CE91C626: {r: 0, g: 3.53, b: 0, a: 0}
+    - Vector4_DF9B2DA6: {r: -0.2, g: 3.29, b: 0, a: 0}
+    - Vector4_E6C48334: {r: 0, g: 0, b: 0, a: 0}
+    - Vector4_FF6F0686: {r: -1.14, g: 3.47, b: 0, a: 0}
+    - _Ext0: {r: -7.378759, g: -0.36573315, b: -23.174652, a: 2}
+    - _Ext1: {r: -5.815599, g: -3.16, b: -22.798376, a: 2}
+    - _Ext2: {r: -7.931249, g: 0.89, b: -22.469633, a: 4}
+    - _Ext3: {r: -84.025154, g: 9.333984, b: 22.93291, a: 1}
+    - _Ext4: {r: 0, g: 0, b: 0, a: 0}
+    - _Ext5: {r: 0, g: 0, b: 0, a: 0}
+    - _Ext6: {r: 0, g: 0, b: 0, a: 0}
+    - _Ext7: {r: 0, g: 0, b: 0, a: 0}
+    - _ExtPos8: {r: 0, g: 0, b: 0, a: 0}

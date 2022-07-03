@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Pine_Planet" size="0.060000 0.087143" />
+    <ImageTarget name="Grassy_Planet" size="0.060000 0.087143" />
+    <ImageTarget name="Autumn_Planet" size="0.060000 0.087143" />
+    <ImageTarget name="SpaceShip" size="0.060000 0.087143" />
+    <ImageTarget name="Desert_Planet" size="0.060000 0.087143" />
+    <ImageTarget name="Tropical_Planet" size="0.060000 0.087143" />
+    <ImageTarget name="Forest_Planet" size="0.060000 0.087143" />
+    <ImageTarget name="Ice_Planet" size="0.060000 0.087143" />
+  </Tracking>
+</QCARConfig>
